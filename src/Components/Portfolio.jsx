@@ -38,15 +38,14 @@ const projectList = [
   },
   {
     title: "Web Development for Beginners",
-    description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+    description: "Developed the .New Framework windows application for LASER Electronics company.",
+    url: "https://github.com/MaleeshaRodrigo/LASERSystem",
   },
   {
     title: "My Resume Site",
     description:
       "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    url: "https://github.com/MaleeshaRodrigo/psychic-octo-pancake",
   },
   {
     title: "GitHub Codespaces and github.dev",
